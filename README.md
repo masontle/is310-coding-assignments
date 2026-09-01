@@ -24,6 +24,3 @@
 
    masonle
 
-5. AI Tool/Workflow
-
-   I used OpenAI Codex to help set up this repository, create the required folder structure, check installed tool versions, and explain the Git workflow. I reviewed the generated files and will maintain the repository myself. The complete interaction for this assignment is documented in `ai-chat-log.md`.

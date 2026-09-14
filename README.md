@@ -24,6 +24,9 @@
 
    masonle
 
+5. AI Tool/Workflow
+   I use ChatGPT for mostly information summarization (in general), but I do not plan to use AI for this class unless explicitly specified.
+
 <<<<<<< HEAD
 =======
 

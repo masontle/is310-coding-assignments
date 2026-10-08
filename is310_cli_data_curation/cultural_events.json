@@ -1,0 +1,16 @@
+[
+  {
+    "event_name": "Example: Community Mural Day",
+    "event_type": "Public art",
+    "venue": "Example location (fictional)",
+    "event_date": "2026-10-18",
+    "admission": "Free"
+  },
+  {
+    "event_name": "Example: Student Music Showcase",
+    "event_type": "Live music",
+    "venue": "Example location (fictional)",
+    "event_date": "2026-10-24",
+    "admission": "Free"
+  }
+]

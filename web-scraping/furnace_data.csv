@@ -1,0 +1,4 @@
+furnace,crafting_speed_normal,energy_consumption_kw,energy_type,drain_kw,direct_pollution_per_minute,source_url,index_url,retrieved_at_utc
+Stone furnace,1.0,90.0,burner,0.0,2.0,https://wiki.factorio.com/Stone_furnace,https://wiki.factorio.com/Furnace,2026-10-25T19:23:51.219134+00:00
+Steel furnace,2.0,90.0,burner,0.0,4.0,https://wiki.factorio.com/Steel_furnace,https://wiki.factorio.com/Furnace,2026-10-25T19:23:54.389232+00:00
+Electric furnace,2.0,180.0,electric,6.0,1.0,https://wiki.factorio.com/Electric_furnace,https://wiki.factorio.com/Furnace,2026-10-25T19:23:57.566254+00:00

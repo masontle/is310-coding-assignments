@@ -1,0 +1,27 @@
+{
+  "user_agent": "is310-course-scraper/1.0 (Mason; educational wiki project)",
+  "delay_seconds": 3.0,
+  "requests": [
+    {
+      "url": "https://wiki.factorio.com/robots.txt",
+      "status_code": 200
+    },
+    {
+      "url": "https://wiki.factorio.com/Furnace",
+      "status_code": 200
+    },
+    {
+      "url": "https://wiki.factorio.com/Stone_furnace",
+      "status_code": 200
+    },
+    {
+      "url": "https://wiki.factorio.com/Steel_furnace",
+      "status_code": 200
+    },
+    {
+      "url": "https://wiki.factorio.com/Electric_furnace",
+      "status_code": 200
+    }
+  ],
+  "completed_at_utc": "2026-10-25T19:23:57.590780+00:00"
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "openlibrary_key": "/works/OL27482W",
+    "book_title": "The Hobbit",
+    "authors": [
+      "J.R.R. Tolkien"
+    ],
+    "wikipedia_pageid": 30292,
+    "wikipedia_title": "The Hobbit",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Hobbit",
+    "match_status": "candidate_title_match",
+    "match_note": "Selected title, Tolkien authorship, and 1937 publication year; verify article subject manually."
+  }
+]
